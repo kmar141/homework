@@ -1,1 +1,2 @@
-ignoretext.txt
+$ cat .gitignore
+ignore.txt
