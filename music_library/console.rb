@@ -2,8 +2,9 @@ require 'pry-byebug'
 require_relative 'artists'
 require_relative 'albums'
 
-Artist.delete_all()
 Album.delete_all()
+Artist.delete_all()
+
 
 artist1 = Artist.new({
   'name' => 'Knxledge'
