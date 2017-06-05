@@ -1,0 +1,13 @@
+body {
+  background-image: url(https://makawalli.files.wordpress.com/2014/01/rockpaperscissors.png);
+  background-size: cover;
+}
+
+h1 {
+  color: red;
+  font-size: 128px;
+
+}
+
+.topic { font-size: 120px; text-decoration: none; }
+
