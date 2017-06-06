@@ -1,0 +1,4 @@
+<% @customers.each do |customer| %>
+  <p><a href="/customers/<%= customer.id %>"><%= customer.name() %></a></p>
+  <hr />
+<% end %>
